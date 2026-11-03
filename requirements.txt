@@ -1,0 +1,7 @@
+# Install alongside the compatible LTX-2.5 and SolarWM dependency environments.
+# Obtain a CUDA-enabled torch build matching the target machine.
+torch
+numpy
+opencv-python-headless
+safetensors
+peft
