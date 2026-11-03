@@ -1,0 +1,1 @@
+{"record_id":"sample:000001","role":"follow","split":"train","num_frames":153,"video":"clips/sample_000001/gen.mp4","hand_control":"clips/sample_000001/hand_control.mp4","hand_motion":"clips/sample_000001/hand_motion.npz","camera":"clips/sample_000001/camera.npz","prompt":"First-person video of a hand interacting with an object."}
